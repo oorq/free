@@ -11,7 +11,7 @@
 - 'Secrets'变量设置后，点击右上 'star' 运行测试是否无误。
 - 建议使用QQ或163邮箱授权码登陆。Gmail每次登陆会报错。
 - Telegram新建bot![参见官方文档介绍](https://core.telegram.org/bots#6-botfather)获取'TELEGRAM_BOT_TOKEN'，Telegram 账户发送/start给@userinfobot即可以获取自己的'chatID'对应'TELEGRAM_CHAT_ID'，环境变量设置有用。
-
+h
 ## 效果
 ![邮件示例](https://s1.ax1x.com/2020/07/12/U8DDc4.png "邮件内容")  
 
