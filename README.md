@@ -1,5 +1,5 @@
 <!---
-
+更新
 
 # FREENOM-automatic-renewal
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/Lancenas/freenom-automatic-renewal/blob/master/LICENSE)
